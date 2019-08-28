@@ -1,0 +1,11 @@
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Um\bin\Debug\netcoreapp2.1\Parte_Um.deps.json
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Um\bin\Debug\netcoreapp2.1\Parte_Um.runtimeconfig.json
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Um\bin\Debug\netcoreapp2.1\Parte_Um.runtimeconfig.dev.json
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Um\bin\Debug\netcoreapp2.1\Parte_Um.dll
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Um\bin\Debug\netcoreapp2.1\Parte_Um.pdb
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Um\obj\Debug\netcoreapp2.1\Parte_Um.csprojAssemblyReference.cache
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Um\obj\Debug\netcoreapp2.1\Parte_Um.csproj.CoreCompileInputs.cache
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Um\obj\Debug\netcoreapp2.1\Parte_Um.AssemblyInfoInputs.cache
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Um\obj\Debug\netcoreapp2.1\Parte_Um.AssemblyInfo.cs
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Um\obj\Debug\netcoreapp2.1\Parte_Um.dll
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Um\obj\Debug\netcoreapp2.1\Parte_Um.pdb

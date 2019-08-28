@@ -1,0 +1,11 @@
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Dois\bin\Debug\netcoreapp2.1\Parte_Dois.deps.json
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Dois\bin\Debug\netcoreapp2.1\Parte_Dois.runtimeconfig.json
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Dois\bin\Debug\netcoreapp2.1\Parte_Dois.runtimeconfig.dev.json
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Dois\bin\Debug\netcoreapp2.1\Parte_Dois.dll
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Dois\bin\Debug\netcoreapp2.1\Parte_Dois.pdb
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Dois\obj\Debug\netcoreapp2.1\Parte_Dois.csprojAssemblyReference.cache
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Dois\obj\Debug\netcoreapp2.1\Parte_Dois.csproj.CoreCompileInputs.cache
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Dois\obj\Debug\netcoreapp2.1\Parte_Dois.AssemblyInfoInputs.cache
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Dois\obj\Debug\netcoreapp2.1\Parte_Dois.AssemblyInfo.cs
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Dois\obj\Debug\netcoreapp2.1\Parte_Dois.dll
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Parte_Dois\obj\Debug\netcoreapp2.1\Parte_Dois.pdb
