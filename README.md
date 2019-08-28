@@ -1,4 +1,5 @@
-# Learning-Logical-Programming
-Guide for new users about Logical Programming. It will be used for lessons in Company.
+# Learning-Programming-OOP
+Guide for new users about Programming. It will be used for lessons in Company.
 
-Programação Orientada a Objetos: https://youtu.be/QY0Kdg83orY
+Vídeo sobre o assunto: Programação Orientada a Objetos: https://youtu.be/QY0Kdg83orY
+
