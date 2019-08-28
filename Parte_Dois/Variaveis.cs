@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Learning_Programming
+namespace Parte_Dois
 {
-    class Parte_Um
+    class Variaveis
     {
         static void Main(string[] args)
         {
