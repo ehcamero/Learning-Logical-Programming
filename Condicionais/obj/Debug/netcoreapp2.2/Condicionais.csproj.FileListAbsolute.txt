@@ -1,0 +1,11 @@
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Condicionais\bin\Debug\netcoreapp2.2\Condicionais.deps.json
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Condicionais\bin\Debug\netcoreapp2.2\Condicionais.runtimeconfig.json
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Condicionais\bin\Debug\netcoreapp2.2\Condicionais.runtimeconfig.dev.json
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Condicionais\bin\Debug\netcoreapp2.2\Condicionais.dll
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Condicionais\bin\Debug\netcoreapp2.2\Condicionais.pdb
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Condicionais\obj\Debug\netcoreapp2.2\Condicionais.csprojAssemblyReference.cache
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Condicionais\obj\Debug\netcoreapp2.2\Condicionais.csproj.CoreCompileInputs.cache
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Condicionais\obj\Debug\netcoreapp2.2\Condicionais.AssemblyInfoInputs.cache
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Condicionais\obj\Debug\netcoreapp2.2\Condicionais.AssemblyInfo.cs
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Condicionais\obj\Debug\netcoreapp2.2\Condicionais.dll
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Condicionais\obj\Debug\netcoreapp2.2\Condicionais.pdb
