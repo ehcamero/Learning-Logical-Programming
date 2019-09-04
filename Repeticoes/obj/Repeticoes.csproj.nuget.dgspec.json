@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Eduardo Interno\\Workshops\\VS Codes\\Variaveis\\Learning-Programming\\Repeticoes\\Repeticoes.csproj": {}
+  },
+  "projects": {
+    "D:\\Eduardo Interno\\Workshops\\VS Codes\\Variaveis\\Learning-Programming\\Repeticoes\\Repeticoes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Eduardo Interno\\Workshops\\VS Codes\\Variaveis\\Learning-Programming\\Repeticoes\\Repeticoes.csproj",
+        "projectName": "Repeticoes",
+        "projectPath": "D:\\Eduardo Interno\\Workshops\\VS Codes\\Variaveis\\Learning-Programming\\Repeticoes\\Repeticoes.csproj",
+        "packagesPath": "C:\\Users\\e.camero\\.nuget\\packages\\",
+        "outputPath": "D:\\Eduardo Interno\\Workshops\\VS Codes\\Variaveis\\Learning-Programming\\Repeticoes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\e.camero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

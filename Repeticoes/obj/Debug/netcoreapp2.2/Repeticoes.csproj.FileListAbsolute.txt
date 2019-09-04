@@ -1,0 +1,11 @@
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Repeticoes\bin\Debug\netcoreapp2.2\Repeticoes.deps.json
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Repeticoes\bin\Debug\netcoreapp2.2\Repeticoes.runtimeconfig.json
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Repeticoes\bin\Debug\netcoreapp2.2\Repeticoes.runtimeconfig.dev.json
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Repeticoes\bin\Debug\netcoreapp2.2\Repeticoes.dll
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Repeticoes\bin\Debug\netcoreapp2.2\Repeticoes.pdb
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Repeticoes\obj\Debug\netcoreapp2.2\Repeticoes.csprojAssemblyReference.cache
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Repeticoes\obj\Debug\netcoreapp2.2\Repeticoes.csproj.CoreCompileInputs.cache
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Repeticoes\obj\Debug\netcoreapp2.2\Repeticoes.AssemblyInfoInputs.cache
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Repeticoes\obj\Debug\netcoreapp2.2\Repeticoes.AssemblyInfo.cs
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Repeticoes\obj\Debug\netcoreapp2.2\Repeticoes.dll
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Repeticoes\obj\Debug\netcoreapp2.2\Repeticoes.pdb
