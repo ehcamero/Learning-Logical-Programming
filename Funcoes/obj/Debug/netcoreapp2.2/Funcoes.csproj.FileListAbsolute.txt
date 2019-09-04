@@ -1,0 +1,11 @@
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Funcoes\bin\Debug\netcoreapp2.2\Funcoes.deps.json
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Funcoes\bin\Debug\netcoreapp2.2\Funcoes.runtimeconfig.json
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Funcoes\bin\Debug\netcoreapp2.2\Funcoes.runtimeconfig.dev.json
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Funcoes\bin\Debug\netcoreapp2.2\Funcoes.dll
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Funcoes\bin\Debug\netcoreapp2.2\Funcoes.pdb
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Funcoes\obj\Debug\netcoreapp2.2\Funcoes.csprojAssemblyReference.cache
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Funcoes\obj\Debug\netcoreapp2.2\Funcoes.csproj.CoreCompileInputs.cache
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Funcoes\obj\Debug\netcoreapp2.2\Funcoes.AssemblyInfoInputs.cache
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Funcoes\obj\Debug\netcoreapp2.2\Funcoes.AssemblyInfo.cs
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Funcoes\obj\Debug\netcoreapp2.2\Funcoes.dll
+D:\Eduardo Interno\Workshops\VS Codes\Variaveis\Learning-Programming\Funcoes\obj\Debug\netcoreapp2.2\Funcoes.pdb
